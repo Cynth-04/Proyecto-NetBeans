@@ -2,7 +2,9 @@
 En este proyecto se utilizo NetBeans y GitHub para dar a conocer su codigo fuente.
 
 # Pasos que se realizaron para subir dicho proyecto:
+
 1- Abrimos NetBeans para iniciar a cargar el repositorio.
+
 2- Inicializamos el repositorio Git desde NetBeans.
 Git>Initialize Repository.
 3- Se crea el nuevo repositorio en GitHub.
